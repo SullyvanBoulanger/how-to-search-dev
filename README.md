@@ -1,7 +1,6 @@
 # Mini guide sur comment chercher des informations
 
-Hello !  
-J'écris ce mini guide car avec l'arrivé du cours Angular, c'est réellement la première fois où on est amené à être autonome.  
+Ce mini guide a été écrit pour aider les personnes qui se retrouvent en autonomie alors qu'elles ont pas encore l'habitude.  
 J'espère donc vous donner quelques lignes directrices afin de vous aider :)
 
 **Disclaimer** : Il est très probable que vous aller vous sentir frustrés lors des recherches et c'est **normal**, surtout au début !  
@@ -15,8 +14,11 @@ Ne vous découragez pas si cela arrive, prenez une petite pause, changez-vous le
   - [Ordre de priorité](#ordre-de-priorité)
   - [Bases](#bases)
   - [Documentation officielle](#documentation-officielle)
+    - [Exemple](#exemple)
   - [Articles](#articles)
+    - [Exemple](#exemple-1)
   - [IA](#ia)
+    - [Exemples](#exemples)
   - [StackOverflow](#stackoverflow)
   - [Demander de l'aide](#demander-de-laide)
 
@@ -25,36 +27,29 @@ Ne vous découragez pas si cela arrive, prenez une petite pause, changez-vous le
 Ordre de priorité :
 
 1. Documentation officielle
-
-- Meilleure source en terme de fiabilité
-- Lisez bien, on peut facilement rater une phrase ou mot important
-- Beaucoup d'informations, utilisez la barre de recherche si possible
-
+   - Meilleure source en terme de fiabilité
+   - Lisez bien, on peut facilement rater une phrase ou mot important
+   - Beaucoup d'informations, utilisez la barre de recherche si possible
 2. Articles
-
-- Souvent expliquer de manière différente de la documentation officielle
-- Viser les articles récents (1 an peut faire loin selon la technologie)
-- [Medium](https://medium.com/)
-- [dev.to](https://dev.to/)
-- etc...
-
+   - Souvent expliquer de manière différente de la documentation officielle
+   - Viser les articles récents (1 an peut faire loin selon la technologie)
+   - [Medium](https://medium.com/)
+   - [dev.to](https://dev.to/)
+   - etc...
 3. IA
-
-- Puissant outil à double tranchant
-- [Phind](https://www.phind.com/search?home=true)
-- [Github Copilot](https://github.com/features/copilot) (payant)
-- [ChatGPT](https://chatgpt.com/)
-
+   - Puissant outil à double tranchant
+   - Recommandations
+     - [Phind](https://www.phind.com/search?home=true)(spécialisé programmation, cite les sources utilisées)
+     - [Perplexity](https://www.perplexity.ai/)(cite les sources utilisées)
+     - [Github Copilot](https://github.com/features/copilot) (payant)
+     - [ChatGPT](https://chatgpt.com/)
 4. StackOverflow (ou autre forum)
-
-- Source plus irrégulière
-- Identifiez si votre problème et celui de l'auteur sont les mêmes avant de regarder la réponse
-
+   - Source plus irrégulière
+   - Identifiez si votre problème et celui de l'auteur sont les mêmes avant de regarder la réponse
 5. Demander de l'aide
-
-- Expliquez votre problème en entier, il arrive qu'on trouve la solution comme ça
-- Posez des questions, oubliez votre égo, on apprend tous :)
-- Non, vous n'allez pas bloquer le cours, vous allez peut-être même aider les autres élèves
+   - Expliquez votre problème en entier, il arrive qu'on trouve la solution comme ça
+   - Posez des questions, oubliez votre égo, on apprend tous :)
+   - Non, vous n'allez pas bloquer le cours, vous allez peut-être même aider les autres élèves
 
 **Important** : Soyez confortable avec le fait d'être inconfortable. Vous n'allez pas toujours avoir les réponses instantanément, vous allez peut-être être frustré mais c'est **normal** :)
 
@@ -85,6 +80,8 @@ Si vous avez un doute sur quoi que ce soit, c'est ici qu'il faut commencer.
 
 **Disclaimer** : Il y a souvent beaucoup d'informations dans ces documentations, faites attention à toutes bien lire sinon, vous risquerez de rater des informations pertinentes.
 
+### Exemple
+
 Voici un exemple avec Angular et pour des routers :
 
 - Tapez `Angular Doc` sur Google
@@ -104,6 +101,8 @@ La plupart explique de façon différente les concepts d'un framework (tel les O
 
 Pnez à viser les articles récents (1 an peut faire loin selon la technologie).
 
+### Exemple
+
 Voici un exemple où je n'avais pas compris les Observables :
 
 - Tapez `Angular observables medium`
@@ -114,7 +113,19 @@ Voici un exemple où je n'avais pas compris les Observables :
 ## IA
 
 L'IA est un puissant outil qui peut faire gagner beaucoup de temps mais comme en faire perdre beaucoup.  
-Je vous conseille [Phind](https://www.phind.com/search?home=true), [Github Copilot](https://github.com/features/copilot) et [ChatGPT](https://chatgpt.com/).
+Je vous conseille :
+
+1. [Phind](https://www.phind.com/search?home=true)(spécialisé programmation, cite les sources utilisées)
+2. [Perplexity](https://www.perplexity.ai/)(cite les sources utilisées)
+3. [Github Copilot](https://github.com/features/copilot) (payant)
+4. [ChatGPT](https://chatgpt.com/)
+
+Demandez les sources et contextualiser votre problème.
+
+### Exemples
+
+- "Dans le cadre d'un cours Angular où j'apprends les bases, peux-tu m'expliquer de façon simple et grossière ce qu'est un composant."
+- "Je développe une application en Angular 18, en mode standalone, j'ai 3 composants qui ... mais lorsque je lance le navigateur, j'ai une page blanche. Peux-tu m'aider à trouver la source du probl`me"
 
 ## StackOverflow
 
