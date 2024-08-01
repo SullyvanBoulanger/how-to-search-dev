@@ -1,9 +1,9 @@
 # Mini guide sur comment chercher des informations
 
-Ce mini guide a été écrit pour aider les personnes qui se retrouvent en autonomie alors qu'elles ont pas encore l'habitude.  
+Ce mini guide a été écrit pour aider les personnes qui se retrouvent en autonomie alors qu'elles n'ont pas encore l'habitude.  
 J'espère donc vous donner quelques lignes directrices afin de vous aider :)
 
-**Disclaimer** : Il est très probable que vous aller vous sentir frustrés lors des recherches et c'est **normal**, surtout au début !  
+**Disclaimer** : Il est très probable que vous allez vous sentir frustrés lors des recherches et c'est **normal**, surtout au début !  
 Ne vous découragez pas si cela arrive, prenez une petite pause, changez-vous les idées rapidement ^^
 
 ## Sommaire
