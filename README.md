@@ -4,7 +4,7 @@ Hello !
 J'écris ce mini guide car avec l'arrivé du cours Angular, c'est réellement la première fois où on est amené à être autonome.  
 J'espère donc vous donner quelques lignes directrices afin de vous aider :)
 
-**Disclaimer : ** Il est très probable que vous aller vous sentir frustrés lors des recherches et c'est **normal**, surtout au début !  
+**Disclaimer** : Il est très probable que vous aller vous sentir frustrés lors des recherches et c'est **normal**, surtout au début !  
 Ne vous découragez pas si cela arrive, prenez une petite pause, changez-vous les idées rapidement ^^
 
 ## Sommaire
